@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+  }
+
+#github-icon {
+    max-height: 25px;
+    transform: translateY(5px);
+    margin-left: 5px;
+  }
+
+.brand-logo {
+    margin-left: 8%;
+  }
+
+#formstart{
+      padding-top: 8%;
+  }
+  
+#input-flex{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  }
